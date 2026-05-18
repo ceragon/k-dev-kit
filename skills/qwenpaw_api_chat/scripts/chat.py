@@ -16,6 +16,9 @@ import time
 import http.client
 from pathlib import Path
 
+# --- 版本 ---
+__version__ = "1.0.0"
+
 # --- 常量 ---
 AGENT_ID = "Reactor"
 DEFAULT_PORT = 7860

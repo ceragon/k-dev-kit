@@ -1,6 +1,7 @@
 ---
 name: qwenpaw_reactor_chat
 description: 通过 REST API 与运行中的 QwenPaw 实例中的 Reactor 智能体对话。支持会话持久化、交互式会话选择，适用于任何外部智能体（Claude Code、Codex 等）。
+version: "1.0.0"
 metadata:
   builtin_skill_version: "1.0"
 ---
